@@ -8,9 +8,6 @@
   <a href="https://umardevworks.com"><img src="https://img.shields.io/badge/Portfolio-1D2671?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=umardevworks&color=1D2671&style=for-the-badge" alt="Profile Views" />
-</div>
 
 ## 💫 About Me
 
