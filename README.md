@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D2671,100:C33764&height=200&section=header&text=Umar%20DevWorks&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack Web Developer%20%7C%20IoT%20Developer%20%7C%20UI%20UX%20Designer&descAlignY=65&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1D2671,100:C33764&amp;height=200&amp;section=header&amp;text=Umar%20DevWorks&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20Web%20Developer%20%7C%20IoT%20Developer%20%7C%20UI%20UX%20Designer&amp;descAlignY=65&amp;descAlign=50" width="100%" />
 </div>
+
 
 <p align="center">
   <a href="mailto:umr6406@gmail.com"><img src="https://img.shields.io/badge/Email-1D2671?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
