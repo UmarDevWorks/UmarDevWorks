@@ -5,7 +5,6 @@
 
 <p align="center">
   <a href="mailto:umr6406@gmail.com"><img src="https://img.shields.io/badge/Email-1D2671?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
- 
   <a href="https://umardevworks.com"><img src="https://img.shields.io/badge/Portfolio-1D2671?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio"/></a>
 </p>
 
