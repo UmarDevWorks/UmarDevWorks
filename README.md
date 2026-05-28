@@ -52,30 +52,25 @@ Currently building:
 
 ---
 
+
 ## GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=umardevworks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=umardevworks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umardevworks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umardevworks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 </div>
 
----
-
-## Current Focus
-
-- Scalable web apps with Next.js
-- Embedded hardware systems
-- STEM learning products
-- Building MakerBox into a larger educational platform
 
 ---
+
+
 
 <div align="center">
 
-minimal • functional • built with curiosity
+Minimal • functional • Learning through Experimentation
 
 </div>
 
