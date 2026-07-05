@@ -7,7 +7,7 @@
 
 Building web platforms, IoT systems, and educational tech projects.
 
-[Portfolio](https://umardevworks.com) • [MakerBox.pk](https://makerbox.pk) • [Email](mailto:umr6406@gmail.com)
+[Portfolio](https://umardevworks.com) • 
 
 </div>
 
